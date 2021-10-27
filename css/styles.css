@@ -23,23 +23,23 @@ img {
 
 /*Style rules to show mobile class and hide tab-desk class*/
 .mobile {
-  display: block;
+    display: block;
 }
 
 .tab-desk {
-  display: none;
+    display: none;
 }
 
 /*Style rules for header area*/
 .mobile h1 {
-  padding: 2%;
-  text-align: center;
-  font-family: 'Emblema One', cursive;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Emblema One', cursive;
 }
 .mobile h3 {
-  padding: 2%;
-  text-align: center;
-  font-family: 'Lora', serif;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Lora', serif;
 }
 /*Style rules for navigation area*/
 nav {
@@ -152,7 +152,7 @@ footer a {
     .tab-desk {
         display: block;
     }
-    #mobile {
+    .mobile {
         display: none;
     }
     /*Tablet Viewport: Style rules for nav area*/
@@ -171,9 +171,12 @@ footer a {
     body {
         background: linear-gradient(#f6eee4, #78593a);
     }
-    .wrapper {
+    #wrapper {
         width: 1920px;
-        margin: 0 auto 0 auto;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
     main {
         background-color: #f6eee4;
@@ -182,7 +185,7 @@ footer a {
 
 /*Media Query for Desktop Viewport*/
 @media screen and (min-width: 1000px), print {
-    /*Desktop Viewport: Style rules for nav area*/
+    /*Desktop Viewport: Style Rules for nav area*/
     nav li {
         font-size: 1.5em;
     }
