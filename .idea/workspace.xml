@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Created various media queries for mobile, tablet, and large desktop viewports.">
+    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Fixed visual errors">
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/android-chrome-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby-pig.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby-squirrel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bearded-dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blind-deer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/goat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hawk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hedgehog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/horse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pig.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tortoise-pyramid.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +61,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Charles\Documents\GitHub\rescue" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +80,13 @@
       <workItem from="1634526514517" duration="2001000" />
       <workItem from="1634663648978" duration="15664000" />
       <workItem from="1635197989751" duration="2450000" />
-      <workItem from="1635350639645" duration="313000" />
+      <workItem from="1635350639645" duration="2939000" />
+      <workItem from="1635543432283" duration="85000" />
+      <workItem from="1635543610609" duration="20000" />
+      <workItem from="1635546637266" duration="3447000" />
+      <workItem from="1635967130881" duration="68000" />
+      <workItem from="1635967234866" duration="5281000" />
+      <workItem from="1635973292410" duration="1119000" />
     </task>
     <task id="LOCAL-00001" summary="Added Css to the webpages and reorganized the files.">
       <created>1632893089955</created>
@@ -82,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634673928912</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed visual errors">
+      <created>1635351385990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635351385990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +140,7 @@
     <MESSAGE value="Added the header image and updated the code to chp 4" />
     <MESSAGE value=" Adding support for mobile and tablet viewports." />
     <MESSAGE value="Created various media queries for mobile, tablet, and large desktop viewports." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created various media queries for mobile, tablet, and large desktop viewports." />
+    <MESSAGE value="Fixed visual errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed visual errors" />
   </component>
 </project>
