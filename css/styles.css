@@ -211,7 +211,7 @@ footer a {
     }
     /*Large Desktop Viewport: Style rules for grids*/
     .grid {
-        grid-template-columns: 25% 25% 25% 25%;
+        grid-template-columns: auto auto auto auto;
     }
     aside {
         grid-column: 1/span 4;
