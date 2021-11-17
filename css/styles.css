@@ -22,11 +22,11 @@ img {
 }
 
 /*Style rules to show mobile class and hide tab-desk class*/
-.mobile {
+.mobile .mobile-tablet {
     display: block;
 }
 
-.tab-desk {
+.tab-desk .desktop {
     display: none;
 }
 
@@ -239,7 +239,7 @@ footer a {
     }
     /*Desktop Viewport: Style rules for grids*/
     .grid {
-        grid-template-columns: 33.3% 33.3% 33.3%;
+        grid-template-columns: auto auto auto;
         grid-gap: 30px;
     }
     aside {
