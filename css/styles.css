@@ -22,11 +22,11 @@ img {
 }
 
 /*Style rules to show mobile class and hide tab-desk class*/
-.mobile .mobile-tablet {
+.mobile, .mobile-tablet {
     display: block;
 }
 
-.tab-desk .desktop {
+.tab-desk, .desktop {
     display: none;
 }
 
@@ -36,6 +36,7 @@ img {
     text-align: center;
     font-family: 'Emblema One', cursive;
 }
+
 .mobile h3 {
     padding: 2%;
     text-align: center;
@@ -128,7 +129,8 @@ figcaption {
 #info ul {
     margin-left: 10%;
 }
-#contact {
+
+#contact, #form h2 {
     text-align: center;
 }
 
@@ -146,6 +148,33 @@ figcaption {
     color: #f6eee4;
     text-decoration: none;
     font-weight: bold;
+}
+/*Style rules for form elements*/
+fieldset, input, textarea {
+    margin-bottom: 2%;
+}
+
+fieldset legend {
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+label {
+    display: block;
+    padding-top: 2%;
+}
+
+form #submit {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 2%;
+    background-color: #78593a;
+    color: #f6eee4;
+    font-size: 1.25em;
+    border-radius: 10px;
 }
 
 /*Style rules for footer content*/
@@ -192,6 +221,14 @@ footer a {
     aside {
         grid-column: 1/span 2;
     }
+    /*Tablet Viewport: Style rule for form element*/
+    form {
+        width: 70%;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-right: auto;
+        margin-left: auto;
+    }
 }
 
 /*Media Query for Large Desktop Viewports*/
@@ -222,6 +259,9 @@ footer a {
 /*Media Query for Desktop Viewport*/
 @media screen and (min-width: 1000px), print {
     /*Desktop Viewport: Show desktop class, hide mobile-tablet class*/
+    .desktop {
+        display: block;
+    }
     .mobile-tablet {
         display: none;
     }
@@ -275,5 +315,17 @@ footer a {
     }
     tr:nth-child(odd) {
         background-color: #deccba;
+    }
+    /*Desktop Viewport: Style rules for form elements*/
+    form {
+        width: auto;
+    }
+    .form-grid {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 20px;
+    }
+    .btn {
+        grid-column: 1/span 2;
     }
 }
