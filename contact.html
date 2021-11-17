@@ -49,9 +49,46 @@ Date: 9/21/2021
             <form class="form-grid">
                 <fieldset>
                     <legend>Contact Information</legend>
+                    <!-- First Name -->
+                    <label for="fName">First Name:</label>
+                    <input type="text" name="fName" id="fName">
+                    <!-- Last Name -->
+                    <label for="IName">Last Name:</label>
+                    <input type="text" name="IName" id="IName">
+                    <!-- Name of Business -->
+                    <label for="bName">Name of Business:</label>
+                    <input type="text" name="bName" id="bName">
+                    <!-- Email -->
+                    <label for="email">Email:</label>
+                    <input type="text" name="email" id="email">
+                    <!-- Phone -->
+                    <label for="phone">Phone:</label>
+                    <input type="text" name="phone" id="phone">
                 </fieldset>
                 <fieldset>
                     <legend>Additional Information</legend>
+                    <p>I would like more information about:</p>
+                    <!-- Volunteering -->
+                    <label for="vol">
+                        <input type="radio" name="info" id="vol" value="Volunteering">Volunteering
+                    </label>
+                    <!-- Sponsorship Opportunities -->
+                    <label for="sponsor">
+                        <input type="radio" name="info" id="sponsor" value="Sponsorship Opportunities">Sponsorship Opportunities
+                    </label>
+                    <!-- Wildlife -->
+                    <label for="wild">
+                        <input type="radio" name="info" id="wild" value="Wildlife">Wildlife
+                    </label>
+                    <!-- Other -->
+                    <label for="other">
+                        <input type="radio" name="info" id="other" value="Other">Other, please specify below
+                    </label>
+                    <!-- Questions -->
+                    <label for="questions">
+                        What questions do you have for us?
+                    </label>
+                    <textarea name="questions" id="questions" rows="5" cols="35"></textarea>
                 </fieldset>
                 <input type="submit" id="submit" value="Submit" class="btn">
                 <!-- Start Form -->
