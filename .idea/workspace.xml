@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Added a partnership webpage as well as forms.">
+      <change afterPath="$PROJECT_DIR$/media/captions.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/descriptions.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/wildrescues.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/wildrescues.webm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partnership.html" beforeDir="false" afterPath="$PROJECT_DIR$/partnership.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +80,7 @@
       <workItem from="1636764310682" duration="811000" />
       <workItem from="1637118800118" duration="222000" />
       <workItem from="1637121883870" duration="11104000" />
+      <workItem from="1644277188155" duration="2599000" />
     </task>
     <task id="LOCAL-00001" summary="Added Css to the webpages and reorganized the files.">
       <created>1632893089955</created>
