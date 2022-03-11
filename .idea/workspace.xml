@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Added a faq page + implemented javascript interactivity">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partnership.html" beforeDir="false" afterPath="$PROJECT_DIR$/partnership.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
-    </list>
+    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="fixed nav onclick event not working" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +76,7 @@
       <workItem from="1637121883870" duration="11104000" />
       <workItem from="1644277188155" duration="4396000" />
       <workItem from="1646177553409" duration="100000" />
-      <workItem from="1646954147141" duration="5018000" />
+      <workItem from="1646954147141" duration="5357000" />
     </task>
     <task id="LOCAL-00001" summary="Added Css to the webpages and reorganized the files.">
       <created>1632893089955</created>
@@ -156,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646959245075</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fixed nav onclick event not working">
+      <created>1646959599145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646959599145</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +184,7 @@
     <MESSAGE value="Added a partnership webpage as well as forms." />
     <MESSAGE value="Replaced about-us page img with a video + added captions" />
     <MESSAGE value="Added a faq page + implemented javascript interactivity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a faq page + implemented javascript interactivity" />
+    <MESSAGE value="fixed nav onclick event not working" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed nav onclick event not working" />
   </component>
 </project>
