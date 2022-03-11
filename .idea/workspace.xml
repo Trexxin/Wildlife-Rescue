@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Added a partnership webpage as well as forms.">
-      <change afterPath="$PROJECT_DIR$/media/captions.vtt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/descriptions.vtt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/wildrescues.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/wildrescues.webm" afterDir="false" />
+    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Replaced about-us page img with a video + added captions">
+      <change afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partnership.html" beforeDir="false" afterPath="$PROJECT_DIR$/partnership.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +50,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Charles\PhpstormProjects\Wildlife-Rescue" />
       <recent name="C:\Users\Charles\Documents\GitHub\rescue" />
     </key>
   </component>
@@ -80,7 +85,9 @@
       <workItem from="1636764310682" duration="811000" />
       <workItem from="1637118800118" duration="222000" />
       <workItem from="1637121883870" duration="11104000" />
-      <workItem from="1644277188155" duration="2599000" />
+      <workItem from="1644277188155" duration="4396000" />
+      <workItem from="1646177553409" duration="100000" />
+      <workItem from="1646954147141" duration="4664000" />
     </task>
     <task id="LOCAL-00001" summary="Added Css to the webpages and reorganized the files.">
       <created>1632893089955</created>
@@ -138,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637130736203</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Replaced about-us page img with a video + added captions">
+      <created>1644280672792</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644280672792</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +179,7 @@
     <MESSAGE value="Fixed visual errors" />
     <MESSAGE value="Added a gallery webpage and added title icons for different devices." />
     <MESSAGE value="Added a partnership webpage as well as forms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a partnership webpage as well as forms." />
+    <MESSAGE value="Replaced about-us page img with a video + added captions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replaced about-us page img with a video + added captions" />
   </component>
 </project>
