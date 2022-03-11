@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Replaced about-us page img with a video + added captions">
-      <change afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="Added a faq page + implemented javascript interactivity">
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/partnership.html" beforeDir="false" afterPath="$PROJECT_DIR$/partnership.html" afterDir="false" />
@@ -87,7 +84,7 @@
       <workItem from="1637121883870" duration="11104000" />
       <workItem from="1644277188155" duration="4396000" />
       <workItem from="1646177553409" duration="100000" />
-      <workItem from="1646954147141" duration="4664000" />
+      <workItem from="1646954147141" duration="5018000" />
     </task>
     <task id="LOCAL-00001" summary="Added Css to the webpages and reorganized the files.">
       <created>1632893089955</created>
@@ -152,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644280672792</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added a faq page + implemented javascript interactivity">
+      <created>1646959245075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646959245075</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +184,7 @@
     <MESSAGE value="Added a gallery webpage and added title icons for different devices." />
     <MESSAGE value="Added a partnership webpage as well as forms." />
     <MESSAGE value="Replaced about-us page img with a video + added captions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replaced about-us page img with a video + added captions" />
+    <MESSAGE value="Added a faq page + implemented javascript interactivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a faq page + implemented javascript interactivity" />
   </component>
 </project>
