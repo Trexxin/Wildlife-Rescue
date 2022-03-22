@@ -22,6 +22,8 @@ Date: 3/10/2022
 
 <div id="wrapper">
 <body>
+<!-- Skip to Content Link -->
+<a class="skip" href="#content">Skip to Content</a>
 <!-- Mobile Nav -->
 <nav class="mobile-nav">
   <div id="nav-links">
@@ -58,7 +60,7 @@ Date: 3/10/2022
 </nav>
 
 <!-- Use the main area to add the main content to the webpage -->
-<main>
+<main id="content">
   <div id="questions">
     <p onclick="ans1()">How can I determine if a baby animal is an orphan?</p>
     <p onclick="ans2()">How can I tell if an animal has rabies?</p>
@@ -72,8 +74,14 @@ Date: 3/10/2022
 </main>
 
 <footer>
-  <p>&copy; Copyright 2021. All Rights Reserved.</p>
-  <p><a href="mailto:contact@wildrescue.net">contact@wildrescues.net</a></p>
+  <div class="copyright">
+    <p>&copy; Copyright 2021. All Rights Reserved.</p>
+    <p><a href="mailto:contact@wildrescue.net">contact@wildrescues.net</a></p>
+  </div>
+  <div class="social">
+    <a href="https://www.facebook.com" target="_blank"><img src="images/facebook-logo.png" alt="Facebook logo"></a>
+    <a href="https://www.twitter.com" target="_blank"><img src="images/twitter-logo.png" alt="Twitter logo"></a>
+  </div>
 </footer>
 
 <script src="scripts/script.js"></script>
