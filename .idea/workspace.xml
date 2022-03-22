@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="fixed nav onclick event not working" />
+    <list default="true" id="a1edc751-47ad-413d-a214-95fdc07b62dc" name="Changes" comment="corrected the file name to faq">
+      <change afterPath="$PROJECT_DIR$/images/facebook-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitter-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partnership.html" beforeDir="false" afterPath="$PROJECT_DIR$/partnership.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +31,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1yngyQSHwXjJ7xsSy2ezuR4bkbn" />
   <component name="ProjectLevelVcsManager">
@@ -76,7 +87,10 @@
       <workItem from="1637121883870" duration="11104000" />
       <workItem from="1644277188155" duration="4396000" />
       <workItem from="1646177553409" duration="100000" />
-      <workItem from="1646954147141" duration="5357000" />
+      <workItem from="1646954147141" duration="6458000" />
+      <workItem from="1646961958033" duration="22000" />
+      <workItem from="1647967377715" duration="811000" />
+      <workItem from="1647968285262" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="Added Css to the webpages and reorganized the files.">
       <created>1632893089955</created>
@@ -155,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646959599145</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="corrected the file name to faq">
+      <created>1646960038972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646960038972</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +192,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -185,6 +205,7 @@
     <MESSAGE value="Replaced about-us page img with a video + added captions" />
     <MESSAGE value="Added a faq page + implemented javascript interactivity" />
     <MESSAGE value="fixed nav onclick event not working" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed nav onclick event not working" />
+    <MESSAGE value="corrected the file name to faq" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected the file name to faq" />
   </component>
 </project>
